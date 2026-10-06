@@ -1,0 +1,6 @@
+{
+  "version": "2.0.0",
+  "url_zip": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v2.0.0/B-Arrow_QC_Update.zip",
+  "novedades": "- Lanzamiento inicial de B-Arrow QC.\n- Corrección en asignación de matrices (Creatinuria/Creatinemia).\n- Modo de impresión en B/N (ahorro de tinta).\n- Optimización en curvas de Levey-Jennings.",
+  "obligatoria": false
+}
