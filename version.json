@@ -1,10 +1,8 @@
 {
-  "version": "2.0.0",
-  "url_zip": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v2.0.0/B-Arrow_QC_Update.zip",
-  "url_descarga": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v2.0.0/B-Arrow_QC_Update.zip",
-  "url": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v2.0.0/B-Arrow_QC_Update.zip",
-  "download_url": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v2.0.0/B-Arrow_QC_Update.zip",
-  "novedades": "• Lanzamiento oficial de B-Arrow QC v2.0.0\n• Detección y discriminación de matrices (Creatinuria vs Creatinemia)\n• Modo de impresión B/N (ahorro de tinta y tóner)\n• Optimización de curvas Levey-Jennings multinivel",
-  "notas": "• Lanzamiento oficial de B-Arrow QC v2.0.0\n• Detección y discriminación de matrices (Creatinuria vs Creatinemia)\n• Modo de impresión B/N (ahorro de tinta y tóner)\n• Optimización de curvas Levey-Jennings multinivel",
+  "version": "1.0.0",
+  "url_zip": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v1.0.0/B-Arrow_QC_Update.zip",
+  "url_descarga": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v1.0.0/B-Arrow_QC_Update.zip",
+  "novedades": "• Lanzamiento oficial de B-Arrow QC v1.0.0\n• Suite de Aseguramiento Metrológico y Reglas de Westgard\n• Detección y discriminación de matrices (Creatinuria vs Creatinemia)\n• Modo de impresión B/N (ahorro de tinta y tóner)\n• Arquitectura multi-analizador y bóveda SQL blindada",
+  "notas": "• Lanzamiento oficial de B-Arrow QC v1.0.0\n• Suite de Aseguramiento Metrológico y Reglas de Westgard\n• Detección y discriminación de matrices (Creatinuria vs Creatinemia)\n• Modo de impresión B/N (ahorro de tinta y tóner)\n• Arquitectura multi-analizador y bóveda SQL blindada",
   "obligatoria": false
 }
