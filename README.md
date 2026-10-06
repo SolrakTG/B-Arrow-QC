@@ -89,7 +89,8 @@ venv\Scripts\activate
 
 # 3. Instalar librerías requeridas
 pip install customtkinter packaging psutil matplotlib reportlab
-
+# 4. Iniciar la aplicación
+python main.py
 ```
 
 ---
@@ -122,5 +123,10 @@ B-Arrow QC incorpora un mecanismo cliente-servidor para el despliegue desatendid
   *Tecnólogo Médico • Laboratorio Clínico, Hematología y Banco de Sangre*  
   *Desarrollador de Middleware LIS Clínico & Bioestadística Avanzada*
 
-# 4. Iniciar la aplicación
-python main.py
+* 📧 **Correo Electrónico:** [tm.carlostg@gmail.com](mailto:tm.carlostg@gmail.com)
+* 💼 **Perfil Profesional:** [LinkedIn](https://www.linkedin.com/in/tmcarlostg)
+* 🏛️ **Repositorio:** [SolrakTG/B-Arrow-QC](https://github.com/SolrakTG/B-Arrow-QC)
+
+---
+
+*Desarrollado bajo principios de aseguramiento metrológico para laboratorios clínicos (ISO 15189:2022 / CLSI C24).*
