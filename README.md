@@ -90,5 +90,37 @@ venv\Scripts\activate
 # 3. Instalar librerías requeridas
 pip install customtkinter packaging psutil matplotlib reportlab
 
+```
+
+---
+
+## 🔐 Credenciales de Acceso (Primer Inicio)
+
+Al iniciar el sistema por primera vez, puedes ingresar con cualquiera de los perfiles preconfigurados:
+
+| Rol | Usuario | Contraseña | Permisos |
+| :--- | :--- | :--- | :--- |
+| **SuperAdmin / Auditor** | `admin` | `admin` | Acceso irrestricto, auditoría forense, gestión de analizadores y firmas. |
+| **Técnico Operador** | `user` | `user` | Procesamiento diario, gráficos de control e ingreso manual de resultados. |
+
+---
+
+## 🔄 Sistema de Actualizaciones Remotas (OTA)
+
+B-Arrow QC incorpora un mecanismo cliente-servidor para el despliegue desatendido de parches:
+
+1. Al arrancar, el programa consulta de forma asíncrona la especificación de versión oficial en GitHub.
+2. Si se detecta un parche disponible, despliega la ventana modal con las novedades y notas de versión.
+3. Al autorizar la actualización, el proceso autónomo `updater.exe` descarga el paquete, cierra el software principal, reemplaza los binarios y reabre la plataforma automáticamente sin perder datos ni configuraciones.
+
+---
+
+## 👨‍🔬 Autoría y Contacto
+
+**Desarrollado por:**
+* **TM Carlos Torres Garrido**  
+  *Tecnólogo Médico • Laboratorio Clínico, Hematología y Banco de Sangre*  
+  *Desarrollador de Middleware LIS Clínico & Bioestadística Avanzada*
+
 # 4. Iniciar la aplicación
 python main.py
