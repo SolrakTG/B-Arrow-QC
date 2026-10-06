@@ -1,6 +1,10 @@
 {
   "version": "2.0.0",
   "url_zip": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v2.0.0/B-Arrow_QC_Update.zip",
-  "novedades": "- Lanzamiento inicial de B-Arrow QC.\n- Corrección en asignación de matrices (Creatinuria/Creatinemia).\n- Modo de impresión en B/N (ahorro de tinta).\n- Optimización en curvas de Levey-Jennings.",
+  "url_descarga": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v2.0.0/B-Arrow_QC_Update.zip",
+  "url": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v2.0.0/B-Arrow_QC_Update.zip",
+  "download_url": "https://github.com/SolrakTG/B-Arrow-QC/releases/download/v2.0.0/B-Arrow_QC_Update.zip",
+  "novedades": "• Lanzamiento oficial de B-Arrow QC v2.0.0\n• Detección y discriminación de matrices (Creatinuria vs Creatinemia)\n• Modo de impresión B/N (ahorro de tinta y tóner)\n• Optimización de curvas Levey-Jennings multinivel",
+  "notas": "• Lanzamiento oficial de B-Arrow QC v2.0.0\n• Detección y discriminación de matrices (Creatinuria vs Creatinemia)\n• Modo de impresión B/N (ahorro de tinta y tóner)\n• Optimización de curvas Levey-Jennings multinivel",
   "obligatoria": false
 }
