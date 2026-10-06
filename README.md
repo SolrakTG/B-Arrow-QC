@@ -5,7 +5,7 @@
 [![Norma](https://img.shields.io/badge/Estándar-ISO%2015189%3A2022-2ECC71?style=for-the-badge)](https://www.iso.org/standard/76677.html)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://microsoft.com)
 
-**B-Arrow QC** es una plataforma clínica de escritorio desarrollada para el aseguramiento de la calidad analítica, gestión metrológica y evaluación estadística en laboratorios clínicos y servicios de medicina transfusional[cite: 6, 9]. Integra procesamiento de reportes de analizadores, reglas multirregla de Westgard, métricas Six Sigma, cartas de control dinámicas y auditoría forense para acreditación bajo la norma ISO 15189:2022[cite: 6, 8, 9].
+**B-Arrow QC** es una plataforma clínica de escritorio desarrollada para el aseguramiento de la calidad analítica, gestión metrológica y evaluación estadística en laboratorios clínicos y servicios de medicina transfusional. Integra procesamiento de reportes de analizadores, reglas multirregla de Westgard, métricas Six Sigma, cartas de control dinámicas y auditoría forense para acreditación bajo la norma ISO 15189:2022.
 
 ---
 
@@ -23,14 +23,14 @@
 ## 🚀 Características Principales
 
 * **Ingesta Multi-Formato & Conectividad LIS:** Procesamiento directo y por arrastre (*drag & drop*) de reportes de control generados en analizadores (archivos PDF, CSV, Excel y TXT). Soporta carga de rutina diaria y procesamiento de históricos consolidados (*multi-partes*).
-* **Evaluación Multirregla de Westgard:** Análisis automatizado de violaciones operativas ($1_{3\text{s}}$, $2_{2\text{s}}$, $R_{4\text{s}}$, $4_{1\text{s}}$, $10_{\overline{x}}$) alineado a las directrices CLSI C24 y EP29[cite: 6, 9].
-* **Métrica Six Sigma Analítica:** Cálculo dinámico de CV%, Sesgo (Bias) y métrica Sigma frente al Error Total Máximo ($TE_a$) establecido por CLIA, SEQC o especificaciones de variabilidad biológica[cite: 6, 9].
+* **Evaluación Multirregla de Westgard:** Análisis automatizado de violaciones operativas ($1_{3\text{s}}$, $2_{2\text{s}}$, $R_{4\text{s}}$, $4_{1\text{s}}$, $10_{\overline{x}}$) alineado a las directrices CLSI C24 y EP29.
+* **Métrica Six Sigma Analítica:** Cálculo dinámico de CV%, Sesgo (Bias) y métrica Sigma frente al Error Total Máximo ($TE_a$) establecido por CLIA, SEQC o especificaciones de variabilidad biológica.
 * **Discriminación Inteligente de Matrices:** Detección contextual de magnitudes bioquímicas en distintas matrices analíticas (ej. separación automatizada de Creatinuria en orina frente a Creatinemia en suero).
 * **Visualización Gráfica Avanzada:**
-  * Curvas de Levey-Jennings interactivas con control multinivel[cite: 7, 13].
-  * Diagramas Youden Twin-Plot para la diferenciación cuantitativa de error analítico sistemático versus aleatorio[cite: 6, 13].
-* **Optimización Operativa:** Modo de exportación e impresión en blanco y negro de alto contraste, reduciendo costos de tinta y tóner en entornos asistenciales[cite: 6, 13].
-* **Acreditación ISO 15189:** Módulo de bitácora para gestión de No Conformidades y registro forense (*Audit Log*) para trazabilidad de cada corrida analítica[cite: 6, 8].
+  * Curvas de Levey-Jennings interactivas con control multinivel.
+  * Diagramas Youden Twin-Plot para la diferenciación cuantitativa de error analítico sistemático versus aleatorio.
+* **Optimización Operativa:** Modo de exportación e impresión en blanco y negro de alto contraste, reduciendo costos de tinta y tóner en entornos asistenciales.
+* **Acreditación ISO 15189:** Módulo de bitácora para gestión de No Conformidades y registro forense (*Audit Log*) para trazabilidad de cada corrida analítica.
 
 ---
 
@@ -39,13 +39,13 @@
 | Módulo | Descripción Funcional |
 | :--- | :--- |
 | **Dashboard Analítico** | Visión general del día: corridas procesadas, salud analítica global, equipos activos y estado de la bóveda SQL. |
-| **Monitor en Vivo** | Vista inmediata de las últimas corridas ingresadas con estado de conformidad analítica[cite: 7]. |
-| **Gráficas QC** | Cartas de control Levey-Jennings por analizador, analito y nivel con cálculo de límites $1\text{s}$, $2\text{s}$ y $3\text{s}$[cite: 6, 7]. |
-| **Youden Twin-Plot** | Evaluación bivariada simultánea de dos niveles de control para identificar desvíos interanálisis[cite: 6]. |
-| **Incertidumbre Analítica** | Estimación metrológica estandarizada de la incertidumbre expandida ($U$) según requisitos ISO 15189[cite: 6, 9]. |
-| **Bitácora de No Conformidades** | Registro de desvíos, análisis de causa raíz y seguimiento de acciones correctivas[cite: 8]. |
-| **Registro Forense (Audit Log)** | Trazabilidad completa e inmutable de eventos, modificaciones y firmas operativas[cite: 6]. |
-| **Informe Ejecutivo** | Generación de resúmenes consolidados en PDF para dirección técnica y jefatura de laboratorio[cite: 6]. |
+| **Monitor en Vivo** | Vista inmediata de las últimas corridas ingresadas con estado de conformidad analítica. |
+| **Gráficas QC** | Cartas de control Levey-Jennings por analizador, analito y nivel con cálculo de límites $1\text{s}$, $2\text{s}$ y $3\text{s}$. |
+| **Youden Twin-Plot** | Evaluación bivariada simultánea de dos niveles de control para identificar desvíos interanálisis. |
+| **Incertidumbre Analítica** | Estimación metrológica estandarizada de la incertidumbre expandida ($U$) según requisitos ISO 15189. |
+| **Bitácora de No Conformidades** | Registro de desvíos, análisis de causa raíz y seguimiento de acciones correctivas. |
+| **Registro Forense (Audit Log)** | Trazabilidad completa e inmutable de eventos, modificaciones y firmas operativas. |
+| **Informe Ejecutivo** | Generación de resúmenes consolidados en PDF para dirección técnica y jefatura de laboratorio. |
 
 ---
 
@@ -65,7 +65,7 @@ El software implementa un modelo de aislamiento de datos diseñado para operar e
 No requiere privilegios de administrador para operar en las estaciones de trabajo clínicas:
 
 1. Dirígete a la sección de [Releases de B-Arrow QC](https://github.com/SolrakTG/B-Arrow-QC/releases/latest).
-2. Descarga el paquete `B-Arrow_QC_Update.zip` de la última versión oficial[cite: 13].
+2. Descarga el paquete `B-Arrow_QC_Update.zip` de la última versión oficial.
 3. Descomprime el contenido en una carpeta local (por ejemplo en el Escritorio o disco `C:\`).
 4. Ejecuta `B-Arrow_QC.exe`.
 
