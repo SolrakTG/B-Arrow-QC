@@ -10,16 +10,17 @@
 ---
 
 ## 📌 Tabla de Contenidos
-- [Características Principales](#-características-principales)
-- [Módulos del Sistema](#-módulos-del-sistema)
-- [Arquitectura y Persistencia](#-arquitectura-y-persistencia)
-- [Descarga e Instalación](#-descarga-e-instalación)
-- [Credenciales de Acceso](#-credenciales-de-acceso-primer-inicio)
-- [Sistema de Actualizaciones Remotas (OTA)](#-sistema-de-actualizaciones-remotas-ota)
-- [Autoría y Contacto](#-autoría-y-contacto)
+- [Características Principales](#caracteristicas-principales)
+- [Módulos del Sistema](#modulos-del-sistema)
+- [Arquitectura y Persistencia](#arquitectura-y-persistencia)
+- [Descarga e Instalación](#descarga-e-instalacion)
+- [Credenciales de Acceso](#credenciales-de-acceso)
+- [Sistema de Actualizaciones Remotas (OTA)](#actualizaciones-remotas)
+- [Autoría y Contacto](#autoria-y-contacto)
 
 ---
 
+<a id="caracteristicas-principales"></a>
 ## 🚀 Características Principales
 
 * **Ingesta Multi-Formato & Conectividad LIS:** Procesamiento directo y por arrastre (*drag & drop*) de reportes de control generados en analizadores (archivos PDF, CSV, Excel y TXT). Soporta carga de rutina diaria y procesamiento de históricos consolidados (*multi-partes*).
@@ -34,6 +35,7 @@
 
 ---
 
+<a id="modulos-del-sistema"></a>
 ## 🧩 Módulos del Sistema
 
 | Módulo | Descripción Funcional |
@@ -49,6 +51,7 @@
 
 ---
 
+<a id="arquitectura-y-persistencia"></a>
 ## 🏛️ Arquitectura y Persistencia
 
 El software implementa un modelo de aislamiento de datos diseñado para operar en redes hospitalarias sin riesgo de pérdida de información:
@@ -59,6 +62,7 @@ El software implementa un modelo de aislamiento de datos diseñado para operar e
 
 ---
 
+<a id="descarga-e-instalacion"></a>
 ## 💻 Descarga e Instalación
 
 La aplicación se distribuye como paquete ejecutable portable y no requiere privilegios de administrador para operar en las estaciones de trabajo clínicas:
@@ -73,6 +77,7 @@ La aplicación se distribuye como paquete ejecutable portable y no requiere priv
 
 ---
 
+<a id="credenciales-de-acceso"></a>
 ## 🔐 Credenciales de Acceso (Primer Inicio)
 
 Al iniciar el sistema por primera vez, puedes ingresar con cualquiera de los perfiles preconfigurados:
@@ -84,6 +89,7 @@ Al iniciar el sistema por primera vez, puedes ingresar con cualquiera de los per
 
 ---
 
+<a id="actualizaciones-remotas"></a>
 ## 🔄 Sistema de Actualizaciones Remotas (OTA)
 
 B-Arrow QC incorpora un mecanismo cliente-servidor para el despliegue desatendido de parches:
@@ -94,6 +100,7 @@ B-Arrow QC incorpora un mecanismo cliente-servidor para el despliegue desatendid
 
 ---
 
+<a id="autoria-y-contacto"></a>
 ## 👨‍🔬 Autoría y Contacto
 
 **Desarrollado por:**
