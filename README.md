@@ -10,13 +10,13 @@
 ---
 
 ## 📌 Tabla de Contenidos
-- [Características Principales](#-características-principales)
-- [Módulos del Sistema](#-módulos-del-sistema)
-- [Arquitectura y Persistencia](#-arquitectura-y-persistencia)
-- [Descarga e Instalación](#-descarga-e-instalación)
-- [Credenciales de Acceso](#-credenciales-de-acceso-primer-inicio)
-- [Sistema de Actualizaciones Remotas (OTA)](#-sistema-de-actualizaciones-remotas-ota)
-- [Autoría y Contacto](#-autoría-y-contacto)
+- [Características Principales](#características-principales)
+- [Módulos del Sistema](#módulos-del-sistema)
+- [Arquitectura y Persistencia](#arquitectura-y-persistencia)
+- [Descarga e Instalación](#descarga-e-instalación)
+- [Credenciales de Acceso](#credenciales-de-acceso-primer-inicio)
+- [Sistema de Actualizaciones Remotas (OTA)](#sistema-de-actualizaciones-remotas-ota)
+- [Autoría y Contacto](#autoría-y-contacto)
 
 ---
 
