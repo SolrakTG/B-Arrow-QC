@@ -15,8 +15,8 @@
 - [Arquitectura y Persistencia](#-arquitectura-y-persistencia)
 - [Descarga e Instalación](#-descarga-e-instalación)
 - [Credenciales de Acceso](#-credenciales-de-acceso-primer-inicio)
-- [Sistema de Actualizaciones OTA](#-sistema-de-actualizaciones-remotas-ota)
-- [Autor y Contacto](#-autoría-y-contacto)
+- [Sistema de Actualizaciones Remotas (OTA)](#-sistema-de-actualizaciones-remotas-ota)
+- [Autoría y Contacto](#-autoría-y-contacto)
 
 ---
 
@@ -61,37 +61,15 @@ El software implementa un modelo de aislamiento de datos diseñado para operar e
 
 ## 💻 Descarga e Instalación
 
-### Método 1: Ejecutable Portable (Recomendado para Laboratorios)
-No requiere privilegios de administrador para operar en las estaciones de trabajo clínicas:
+La aplicación se distribuye como paquete portable y no requiere privilegios de administrador para operar en las estaciones de trabajo clínicas:
 
 1. Dirígete a la sección de [Releases de B-Arrow QC](https://github.com/SolrakTG/B-Arrow-QC/releases/latest).
-2. Descarga el paquete `B-Arrow_QC_Update.zip` de la última versión oficial.
-3. Descomprime el contenido en una carpeta local (por ejemplo en el Escritorio o disco `C:\`).
+2. Descarga el archivo comprimido `B-Arrow_QC_Update.zip` correspondiente a la última versión oficial.
+3. Extrae el contenido en una carpeta local (por ejemplo en el Escritorio o en el disco `C:\`).
 4. Ejecuta `B-Arrow_QC.exe`.
 
 > **Nota para Windows Defender / SmartScreen:**  
-> Al tratarse de un ejecutable independiente de ámbito clínico, en el primer inicio Windows puede desplegar la ventana azul de advertencia de SmartScreen. Haz clic en **«Más información»** y posteriormente en **«Ejecutar de todas formas»**.
-
----
-
-### Método 2: Ejecución desde Código Fuente (Entorno de Desarrollo)
-
-Requisitos previos: **Python 3.10 o superior**.
-
-```bash
-# 1. Clonar el repositorio
-git clone [https://github.com/SolrakTG/B-Arrow-QC.git](https://github.com/SolrakTG/B-Arrow-QC.git)
-cd B-Arrow-QC
-
-# 2. Crear y activar entorno virtual
-python -m venv venv
-venv\Scripts\activate
-
-# 3. Instalar librerías requeridas
-pip install customtkinter packaging psutil matplotlib reportlab
-# 4. Iniciar la aplicación
-python main.py
-```
+> Al tratarse de un ejecutable independiente de ámbito clínico, en el primer inicio Windows puede desplegar la ventana azul de advertencia de SmartScreen. Haz clic en **«Más información»** y posteriormente en el botón **«Ejecutar de todas formas»**.
 
 ---
 
