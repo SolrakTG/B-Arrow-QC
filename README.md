@@ -61,11 +61,11 @@ El software implementa un modelo de aislamiento de datos diseñado para operar e
 
 ## 💻 Descarga e Instalación
 
-La aplicación se distribuye como paquete portable y no requiere privilegios de administrador para operar en las estaciones de trabajo clínicas:
+La aplicación se distribuye como paquete ejecutable portable y no requiere privilegios de administrador para operar en las estaciones de trabajo clínicas:
 
 1. Dirígete a la sección de [Releases de B-Arrow QC](https://github.com/SolrakTG/B-Arrow-QC/releases/latest).
-2. Descarga el archivo comprimido `B-Arrow_QC_Update.zip` correspondiente a la última versión oficial.
-3. Extrae el contenido en una carpeta local (por ejemplo en el Escritorio o en el disco `C:\`).
+2. Descarga el paquete `B-Arrow_QC_Update.zip` de la última versión oficial.
+3. Descomprime el contenido en una carpeta local (por ejemplo en el Escritorio o disco `C:\`).
 4. Ejecuta `B-Arrow_QC.exe`.
 
 > **Nota para Windows Defender / SmartScreen:**  
@@ -103,7 +103,7 @@ B-Arrow QC incorpora un mecanismo cliente-servidor para el despliegue desatendid
 
 * 📧 **Correo Electrónico:** [tm.carlostg@gmail.com](mailto:tm.carlostg@gmail.com)
 * 💼 **Perfil Profesional:** [LinkedIn](https://www.linkedin.com/in/tmcarlostg)
-* 🏛️ **Repositorio:** [SolrakTG/B-Arrow-QC](https://github.com/SolrakTG/B-Arrow-QC)
+* 🏛️ **Repositorio Oficial:** [SolrakTG/B-Arrow-QC](https://github.com/SolrakTG/B-Arrow-QC)
 
 ---
 
